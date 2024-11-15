@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/11/14 16:10:55.585,=C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/14 16:12:47.701,C:\Projetos\Manipular Datas\uManipulaDatas.dfm=C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/11/14 16:12:47.701,C:\Projetos\Manipular Datas\uManipulaDatas.pas=C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/14 16:13:17.319,C:\Projetos\Manipular Datas\ManipulaDatas.dproj=C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/11/14 16:18:16.960,=C:\Projetos\Manipular Datas\Unit1.pas</Transaction>
+    <Transaction>2024/11/14 16:18:43.194,C:\Projetos\Manipular Datas\uUtilData.pas=C:\Projetos\Manipular Datas\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
